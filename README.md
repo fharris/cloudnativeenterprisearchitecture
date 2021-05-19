@@ -12,7 +12,10 @@ but it’s the Cloud Native operational predicated which allows to release Micro
 
 
 
+<img width="754" alt="CN_ImpactOnEA_Framework" src="https://user-images.githubusercontent.com/17484224/118832324-d0213180-b8c0-11eb-8a66-8a2735ab8dae.png">
 
 
-![Uploading image.png…]()
+
+
+
 
