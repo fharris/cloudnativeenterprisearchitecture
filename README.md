@@ -1,4 +1,4 @@
-# cloudnativeenterprisearchitecture
+# cloud native enterprise architecture
 ## Studies on cloud native impact on enterprise architecture and solution design
 
 
