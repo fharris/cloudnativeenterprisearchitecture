@@ -11,3 +11,8 @@ Distributed Architectures such as, EDA, SOA under principles of DDD created the 
 but it’s the Cloud Native operational predicated which allows to release Microservices full potential to the organization.
 
 
+
+
+
+![Uploading image.png…]()
+
